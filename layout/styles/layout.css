@@ -3,7 +3,6 @@
 @import url("framework.css");
 
 a {
-  text-decoration: none;
   transition: all .3s;
 }
 
@@ -11,6 +10,23 @@ a:hover {
   color: #000;
 }
 
+/* Backgrounds ----------------------------------------------------------------------------------------------------------- */
+
+.bg1 {
+  background-image: url('../../images/asset1.jpg');
+}
+
+.bg2 {
+  background-image: url('../../images/asset3.jpg');
+}
+
+.bg3 {
+  background-image: url('../../images/asset4.png');
+}
+
+.bg4 {
+  background-image: url('../../images/asset14.jpeg');
+}
 
 /* Top Bar --------------------------------------------------------------------------------------------------------------- */
 
